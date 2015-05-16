@@ -1,0 +1,647 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]-------------- USA --------------[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --IPTVXBMC 2-16-2015--[/COLOR]  
+#EXTINF:-1, [COLOR green] --IPTVXBMC.COM EXPERIENCE-[/COLOR]
+http://www.xbmcmxtv.com
+
+#EXTINF:-1,TELEMUNDO
+rtmp://50.7.69.186/iguide/4w89yalrid1j4jt playpath=4w89yalrid1j4jt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=630&height=430&channel=13887&autoplay=true    token=#ed%h0#w18623jsda6523lDGD  
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:WARNER HD (Latino) 
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:UNIVERSAL HD 
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:FX HD 
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:A&E 
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:COMEDY CENTRAL 
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:BBC 
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:E 
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:SYFY 
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:GOURMET 
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:GLITZ 
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:DISTRITO COMEDIA 
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TBS 
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TELENOVELAS 
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:DISCOVERY KIDS 
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:DISNEY JR 
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:NICK JR 
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:DISNEY CHANNEL 
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:NICK HD 
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:CARTOON NETWORK 
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:DISNEY XD 
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:BOOMERANG 
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TOONCAST 
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TIIN 
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:DISCOVERY HD 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:HISTORY 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:NAT GEO WILD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TLC HD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:DISCOVERY 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:NAT GEO 
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TURBO 
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:Gotica Music 
+rtmp://149.11.34.6:1935/live/gotica.stream
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TRENDY MUSICA 
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:Me Suena TV HD 
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:Me Suena TV SD
+http://uneapple-i.akamaihd.net/hls/live/215944/grupoune_st33@215944/st33_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:MIMUSICA HD 
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:UNIVERSAL MOVIES 
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:Cable Noticias 
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:El Tiempo TV
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:TELE VID 
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Latino:VMas TV 
+http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:AZTECA NOTICIAS HD 
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA", Mex:AZTECA 7 HD 
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:AZTECA 13 HD 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:TVMas HD 
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:TVMas VERACRUZ 
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:MEXIQUENSE 
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:INGENIO TV 
+http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:CANAL ONCE 
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:CANAL ONCE HD 
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:EXA TV 
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:OCHO TV 
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:CANAL DE LAS ESTRELLAS HD 
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:FORO TV 
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:PROYECTO 40 HD 
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Mex:TELEFORMULA 
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:ANTENA 3 HD 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:ANTENA 3 SD 
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:LA SEXTA HD 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:EXTREMADURA TV 
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="TV Extremadura" tvg-name="TV_Extremadura" group-title="ספרד" tvg-logo="46a21951654a506df4425c85e38a8e0e.png",TV Extremadura
+rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:NOVA HD 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:ANDALUCIA TV 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:HISPAN TV 
+http://ptv-hls.streaming.overon.es/channel04/livehigh.m3u8
+
+#EXTINF:-1,Latino - Hispan TV
+rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:TV GALICIA 
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:Tve 24h HD 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Esp:ARAGON TV Apende ingles 
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:Canal 12 Cordoba 
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:Canal Rural 1 HD 
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:Quiero Musica mms 
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:Tucuman Canal 5 
+rtsp://mobil.tucuman.tv/edge/scwsttv506460643395c
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:Canal 3 Trelew 
+http://198.49.76.226:1935/inovasd/inovasd/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:MAGAZINE 
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:DISCOVERY 
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:CANAL 13 EL TRECE HD 
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:CANAL 13 EL TRECE HD 
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arg:C5N 
+rtmp://c5n.stweb.tv:1935/c5n/live
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:CANAL 9 HD 
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:CANAL 9 HD 
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:LA RED HD 
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/
+
+#EXTINF:-1 tvg-id="LA RED EN VIVO" tvg-name="LA_RED_EN_VIVO" group-title="ספרד" tvg-logo="377165dca8f8004527e1c20414070c42.png",LA RED EN VIVO
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:TVN 
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:MEGA HD 
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:CAMARA DE DIPUTADOS 
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:CNN HD 
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:TV SENADO 
+http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Chil:VTV2 
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Col:TELEANTIOQUIA HD 
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Col:TV MEDELLIN HD 
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Col:CANAL ANTIESTRES 
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Col:Canal Antiestres HD 
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Col:Cantinazo TV 
+http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Per:AMERICA TV HD 
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Dom:Telefuturo Canal 23 
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Dom:Telefuturo Canal 23
+http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Dom:Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:-1,Dom:Telesistema Canal 11
+rtmp://mek4.mekstream.com/telesistema playpath=live3 swfUrl=http://www.mekstream.com/clients/telesistema/player-licensed.swf live=1 pageUrl=http://telesistema11.com.do/senal-en-vivo/
+
+#EXTINF:-1,Dom:BajotTecho
+rtmp://rtmp.playback.cdn2.showcaster.com:1935/orcadigitallive-live playpath=stream139407192313272014107_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=139407&isMainCanvas=FALSE live=true
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Dom:TELEANTILLAS Canal 2 HD 
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1,Dom:Teleantillas
+rtmp://mek4.mekstream.com/teleantillas playpath=live3_source swfUrl=http://www.mekstream.com/clients/teleantillas/player-licensed.swf live=1 pageUrl=http://teleantillas.com.do/senal-en-vivo/
+
+#EXTINF:-1 tvg-id="TiVa (Puerto Rico)" tvg-name="TiVa_(Puerto_Rico)" group-title="ספרד" tvg-logo="a90d7677bc87a1f566ca3e38a7ccb4fd.png",TiVa (Puerto Rico)
+http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Pan:SERTV 11 
+rtmp://216.224.177.132/live/sertv
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Nic:CANAL 13 
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Nic:CANAL 4 
+http://iphone-streaming.ustream.tv/uhls/16349493/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Gua:GUATEVISION TV 
+http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",CR:SINART CANAL 13 
+rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 pageUrl=http://wwitv.com/tv_channels/b2975.htm
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Bolivia:Redadvenir  
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+
+#EXTINF:-1 group-title="Clasificar",RED ADVENIR 
+rtmp://streamer1.streamhost.org/salive playpath=GMIredadvenirm swfUrl=http://missionslibrary.com/player/flashplayer/player.swf live=1 pageUrl=http://redadvenir.org/zstream/redadvenir.php?wtv=552&tvsize=2
+
+#‎EXTINF‬:-1,Latino Movies 
+rtmp://50.7.78.138:443/live/live_latinomovies 
+
+#EXTINF:-1,Latino - Musa visiÃ³n canal 10 (SPM)
+rtmp://joelzaiter1.srfms.com:1963/live/musav.sdp
+
+#EXTINF:-1,Yunavision
+rtmp://ss7.domint.net:1986/yv_str playpath=yuna swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.yunavision.com
+
+#EXTINF:-1,Antena 7
+rtmp://ss6.domint.net:1962/al_edge playpath=antena swfUrl=http://ss7.domint.net/jw6/jwplayer.flash.swf pageUrl=http://www.antenalatina7.com/streaming7/streamingTV.php live=true
+
+#EXTINF:-1 tvg-id="Life Design HD" tvg-name="Life_Design_HD" group-title="ספרד" tvg-logo="1030327d4acbf0d3899335fb76bbda16.png",Life Design HD
+http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8
+
+#EXTINF:-1 tvg-id="Local Sevilla" tvg-name="Local_Sevilla" group-title="ספרד" tvg-logo="dd86007dbcfb88d65dc3868fafe699ea.png",Local Sevilla
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NOVEDADES TV" tvg-name="NOVEDADES_TV" group-title="ספרד" tvg-logo="38516eb0fe2995388dd459764a03d303.png",NOVEDADES TV
+http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8
+
+#EXTINF:-1 tvg-id="Suena TV" tvg-name="Suena_TV" group-title="ספרד" tvg-logo="6c7e0280ab3445163b2fea9c8afb23b1.png",Suena TV
+http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8
+
+#EXTINF:-1 tvg-id="telecafe" tvg-name="Telecafe" group-title="ספרד" tvg-logo="764a5a5959c4b19d2ee3b139e0f45dfe.png",Telecafe
+http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
+
+#EXTINF:-1 tvg-id="MUSEO CARMEN THYSSEN MALAGA" tvg-name="MUSEO_CARMEN_THYSSEN_MALAGA" group-title="ספרד" tvg-logo="02f64a699329c2fde7e2db3e48fc5a6a.png",MUSEO CARMEN THYSSEN MALAGA
+rtmp://149.11.34.6/live playpath=ctmtv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?742 live=1 pageUrl=http://lasteles.com/es/directo/MUSEO-CARMEN-THYSSEN-MALAGA/video/Museo-Carmen-Thyssen-TV-M%C3%A1laga/11593
+
+#EXTINF:-1 tvg-id="TV Agro" tvg-name="TV_Agro" group-title="ספרד" tvg-logo="83a92d253d8f900c73aee11d5793787b.png",TV Agro
+http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
+
+#EXTINF:-1 tvg-id="VIO" tvg-name="VIO" group-title="ספרד" tvg-logo="5f172bdafb0354ecc684c1bb880ac0b3.png",VIO
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:BASTA CRER 
+rtmp://streamspub.manasat.com/live/bastacrer
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:CANAL+ PORTADA 
+http://plus_1-f.akamaihd.net/media/1039301517001/201308/27/1039301517001_263230,1035,3309,001_173716.mp4.csmil/bitrate=1?videoId=2632264176001&lineUpId=&pubId=1039301517001&playerId=1133432061001&affiliateId=&v=3.1.0&fp=WIN 11,8,800,94&r=UPPYQ&g=WWGJRCQKIUUJ
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:CLAN 
+http://media0.rtve.es/resources/TE_GLESP/mp4/5/1/1303316681415.mp4?aksessionid=1303766307140_392613
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:CWB TV 
+http://67.213.216.200/8066/8066/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:Extremadura TV 
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:First Music HD 1080p 
+rtmp://109.239.142.62/live/livestream3
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:Rede Família 
+rtsp://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:Rede Minas 
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:Brasil Central 
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:Cidade Petrópolis 
+rtmp://50.22.247.58:1935/8226/8226
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:Tv Diario 
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:TV Santa Cecília HD - Santos 
+rtmp://174.37.200.35/2063/2063
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:Aberta-UCS TV 
+rtmp://199.217.118.218/UCS-TV/UCS-TV
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:MANÁ 
+http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:MANÁ Cordoba 
+http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:MANA-1 SAT2
+rtmp://195.22.19.179/manasat/manasat2
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Brasil:MANÁ-1 SAT3
+http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",YES! (Aprede Ingles)
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8
+
+#EXTINF:-1 tvg-logo="hln.png", Comedy Central
+rtmp://c.cdn.newschat.tv/edge playpath=hln_live live=1   swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/?Vd?u#bt!25 timeout=15
+ 
+#EXTINF:0,WGN9 (CHICAGO)
+http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8?b?b*t$
+
+#EXTINF:-1,CBC TV 8 (Barbados)
+rtmp://184.154.57.230/cbcvideo playpath=cbcstream?b?b*t$
+
+#EXTINF:-1,STV Scotland   
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
+
+#EXTINF:-1,Action Zone
+rtmp://mi2.gv.filmon.com:8086/live/1045.high.stream 
+
+#EXTINF:-1,Vevo TV 1 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo TV 2 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo TV 3 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",USA:Kiss Tv Music 
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",Arb:FRESHTV. TV 
+rtmp://www.planeta-online.tv:1936/live/channel_4
+
+#EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="AMERICA LATINA",USA:Psychic Today 
+http://204.107.26.252:1935/live/1711.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,Rouge TV 
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+
+#EXTINF:-1,ClubLand
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,RMC1
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1,VirginTV Radio
+rtmp://fms.105.net:1935/live/virgin1
+
+#EXTINF:-1,HipHop Music Channel
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8
+
+#EXTINF:-1,Music Box UA 
+rtmp://212.26.132.86/live/mb_ua 
+
+#EXTINF:-1,Cinestream TV 
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+#EXTINF:-1,BLOOM
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+ 
+#EXTINF:-1,Bloomberg Business Television
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="CNN.png" group-title="news", CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1 tvg-logo="HTSN.png" group-title="news", HTSN RTV6
+rtmp://cp162895.live.edgefcs.net:1935/live playpath=STS-162895-WRTVFLV_7@509 swfUrl=http://stage.v9.anv.bz.s3.amazonaws.com/[[IMPORT]]/players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v3.2/osmf2.0/AkamaiAdvancedStreamingPlugin.swf  live=1 pageUrl=http://media.theindychannel.com/livestreampage
+
+#EXTINF:-1 tvg-logo="Euronews.png" group-title="News",  Euronews  
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan350_rtp.sdp?Vd?u#bt!25
+
+#EXTINF:-1,BBC News 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News",  RT 
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8?Vd?u#bt!25
+
+#EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News",  RTTV
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
+  
+#EXTINF:-1 tvg-logo"AlJazeeraEnglish.png" tvg-name="Al Jazeera English", Al Jazeera (English).
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1
+ 
+#EXTINF:-1 tvg-logo="CCTVNews.png", CCTV news
+http://77.36.61.45:8010/CCTVNews.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1 tvg-logo="ChannelNewsAsia", Channel News Asia
+http://202.75.23.37:1400/live/ch15/04.m3u8?Vd?u#bt!25
+ 
+#EXTINF:-1 tvg-logo="CNBC", CNBC News
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8?Vd?u#bt!25
+
+#EXTINF:-1 tvg-logo="i24news", i24 News (English)
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
+   
+#EXTINF:-1,Pentagon Channel
+http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="NASA.png" group-title="Documentries", NASA TV
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,GMU TV
+mms://media.mesa.gmu.edu/capconwhite1?Vd?u#bt!25
+
+#EXTINF:-1,Vernnissage TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+
+#EXTINF:-1,Mission TV
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+
+#EXTINF:-1,City of Boston TV English
+rtmp://streaming.cityofboston.gov/live/cable
+
+#EXTINF:-1,CarolCablesTV (Florida) mmsh
+mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
+
+#EXTINF:-1,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?b?b*t$
+
+#EXTINF:-1,QVC
+http://204.107.26.252:1935/live/413.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="HSN" tvg-logo="USA/HSN.png", HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?b?b*t$ playpath=mp4:420p500kB31
+
+#EXTINF:-1 tvg-id="HSN2" tvg-logo="USA/HSN.png", HSN 2
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31?b?b*t$ playpath=mp4:468p500kB31
+
+#EXTINF:-1,Pac Mountain 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:-1,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Arizona) 1920*1080
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Arizona) 640*360
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1920*1080
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 1280*720
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 640*360
+http://xrxs.net/video/live-p12losa-1164.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Oregon) 1920*1080
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Washington) 1280*720
+http://xrxs.net/video/live-p12wash-2328.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Washington) 1920*1080
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+#EXTINF:-1,PAC-12 Net. (Washington) 640*360
+http://xrxs.net/video/live-p12wash-1164.m3u8
+
+#EXTINF:0,Show Tv
+http://mn-l.mncdn.com/showtv/showtv2/maxhil.m3u8
+
+#EXTINF:-1,Viasat Nature
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8
+
+#EXTINF:-1,Classic Movies
+rtmp://mi2.gv.filmon.com:8086/live/206.high.stream
+
+#EXTINF:-1 tvg-logo="USA/MGM.png" tvg-id="MGM" tvg-name="MGM", MGM 
+rtmp://109.200.202.124:1935/live playpath=mgm swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/mgm.html/?b?b*t$ token=ef8e8620da151301dfa07b3886ab30ad live=1 playpath=mgm
+
+#EXTINF:-1 tvg-logo="USA/oc16.png" tvg-id="", OC16 (Hawaii)
+rtmp://24.165.45.209/oc16live/ playpath=oc16 swfUrl=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/?b?b*t$ app=oc16live/ buffer=5000 live=true swfVfy=true
+
+#EXTINF:-1 tvg-logo="USA/popkorn_tv.png" tvg-id="" tvg-name="", PopCorn TV logo 
+rtmp://mi2.gv.filmon.com:8086/live/716.high.stream?b?b*t$
+
+#EXTINF:-1,Ebru TV
+http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="USA/The_Florida_Channel.png" tvg-id="TheFloridaChannel", The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1 playpath=tvweb1 pageURL=http://thefloridachannel.org/watch/tvweb1/1331044724/?b?b*t$ swfURL=http://thefloridachannel.org/wp-content/themes/tfc-v2/player.swf live=true
+
+
+
+
+
